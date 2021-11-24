@@ -1,0 +1,18 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.App-cards  {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.App-title {
+    display: flex;
+    justify-content: center;
+    color: #BB2E3B;
+    font-size: 64px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
