@@ -15,3 +15,9 @@
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
 }
+
+.App-Button {
+    width: 20%;
+    margin: 25px;
+    margin-left: 10%;
+}
